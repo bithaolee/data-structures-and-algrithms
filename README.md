@@ -3,3 +3,4 @@
 
 ### Hash
 - [一致性哈希 PHP](https://github.com/haozi3156666/data-structures-and-algrithms/blob/master/data-structures/hash/consistent-hash.php)
+- [LRU 算法 PHP](https://github.com/haozi3156666/data-structures-and-algrithms/blob/master/data-structures/hash/lru-cache.php)
